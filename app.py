@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.set_page_config(page_title="I am Sorry Nishi Bubu. Be My Valentine My Mainu❤️", page_icon="❤️", layout="centered")
+st.set_page_config(page_title="Mainu❤️", page_icon="❤️", layout="centered")
 
 # --- Custom CSS for styling ---
 st.markdown(
@@ -26,7 +26,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("<div class='big-text'>Will You Be My Valentine? 💖</div>", unsafe_allow_html=True)
+st.markdown("<div class='big-text'>I am Sorry Nishi Bubu. Be My Valentine My Mainu❤️</div>", unsafe_allow_html=True)
 
 # Session state to control button movement
 if "no_clicks" not in st.session_state:
