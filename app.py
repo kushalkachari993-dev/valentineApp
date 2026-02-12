@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.set_page_config(page_title="I am Sorry Nishi Bubu. Be My Valentine My ❤️", page_icon="❤️", layout="centered")
+st.set_page_config(page_title="I am Sorry Nishi Bubu. Be My Valentine My Mainu❤️", page_icon="❤️", layout="centered")
 
 # --- Custom CSS for styling ---
 st.markdown(
